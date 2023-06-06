@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+
+img{
+  text-align: center;
+  
+  width: 900px;
+}
+
+a{
+  padding: 10px;
+  background-color: grey;
+}
+
+div{
+  float: left;
+  background-color: aqua;
+  text-align: center;
+  width: 25%;
+}
+
+p{
+  width: 800px;
+  text-align: center;
+}
